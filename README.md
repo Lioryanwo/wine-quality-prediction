@@ -4,7 +4,7 @@ Overview:
 
 This repository contains the notebook and resources for Assignment 2, focusing on supervised learning, including training, evaluating, and comparing machine learning models.
 
-Project Description
+Project Description:
 
 This project demonstrates supervised machine learning workflows, including data preprocessing, model selection, hyperparameter tuning, and evaluation using various performance metrics.
 
