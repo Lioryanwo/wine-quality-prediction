@@ -1,6 +1,6 @@
 Supervised Learning Flow - Assignment 2
 
-Overview
+Overview:
 
 This repository contains the notebook and resources for Assignment 2, focusing on supervised learning, including training, evaluating, and comparing machine learning models.
 
@@ -22,11 +22,11 @@ Model evaluation and comparison
 
 Visualization of model performance
 
-Dataset
+Dataset:
 
 The dataset used is included in the notebook or referenced within it. Ensure any required datasets are correctly loaded or placed in the appropriate directory.
 
-Notebook Structure
+Notebook Structure:
 
 Data Loading: Importing datasets and initial examination.
 
@@ -38,7 +38,7 @@ Evaluation: Comparing model performance metrics.
 
 Visualization: Plotting and interpreting results.
 
-Usage
+Usage:
 
 Clone the repository:
 
@@ -72,9 +72,9 @@ seaborn
 
 jupyter notebook
 
-Author
+Author:
 
-Your Name - Lior Yanwo
+Lior Yanwo
 
 License
 
